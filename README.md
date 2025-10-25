@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello! I'm Jash Vaidya 
 
-<!--
-**JVCyber17/JVCyber17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my cybersecurity portfolio. I am currently on a self-learning journey to build my skills from the ground up.
 
-Here are some ideas to get you started:
+This portfolio tracks my progress as I learn the fundamentals of IT, networking, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My Learning Journey & Projects
+
+*I am just getting started. This section will contain links to my projects as I complete them.*
+
+- **Repository 1: [My-Cyber-Journey]** - *A detailed log of my notes and write-ups from platforms like TryHackMe.*
+- **Repository 2: [My-First-Scripts]** - *My first projects in Python as I learn to automate security tasks.*
+
+## My Goals
+
+- 📚 Learn the fundamentals of networking, Linux, and Windows.
+- 🐍 Learn Python for security automation.
+- 🛡️ Move into Blue Team (SOC) or Red Team (VAPT) concepts.
+- 💼 Build a portfolio of projects that demonstrate my skills.
+
+---
+
+### You can connect with me on:
+- 🔗 **LinkedIn:** 
