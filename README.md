@@ -23,4 +23,4 @@ This portfolio tracks my progress as I learn the fundamentals of IT, networking,
 ---
 
 ### You can connect with me on:
-- 🔗 **LinkedIn:** 
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/jash-vaidya17/?skipRedirect=true
