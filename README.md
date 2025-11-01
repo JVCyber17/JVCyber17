@@ -11,7 +11,7 @@ This portfolio tracks my progress as I learn the fundamentals of IT, networking,
 *I am just getting started. This section will contain links to my projects as I complete them.*
 
 - **Repository 1: TryHackMe-Writeups** - *A detailed log of my notes and write-ups from TryHackMe.*
-- **Repository 2: [not started]** - * *
+- **Repository 2: My University Projects** - *A portfolio of my B.Tech & M.Sc University Projects *
 
 ## My Goals
 
