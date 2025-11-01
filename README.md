@@ -11,13 +11,13 @@ This portfolio tracks my progress as I learn the fundamentals of IT, networking,
 *I am just getting started. This section will contain links to my projects as I complete them.*
 
 - **Repository 1: TryHackMe-Writeups** - *A detailed log of my notes and write-ups from TryHackMe.*
-- **Repository 2: My University Projects** - *A portfolio of my B.Tech & M.Sc University Projects *
+- **Repository 2: My University Projects** - *This repository contains projects from my B.Tech and M.Sc degrees, along with professional recommendations.*
 
 ## My Goals
 
 - 📚 Learn the fundamentals of networking, Linux, and Windows.
 - 🐍 Learn Python for security automation.
-- 🛡️ Move into Blue Team (SOC) or Red Team (VAPT) concepts.
+- 🛡️ Move into Blue Team (SOC) / Red Team (VAPT) concepts.
 - 💼 Build a portfolio of projects that demonstrate my skills.
 
 ---
