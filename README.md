@@ -12,7 +12,7 @@ This portfolio tracks my progress as I learn the fundamentals of IT, networking,
 
 - **Repository 1: TryHackMe-Writeups** - *A detailed log of my notes and write-ups from TryHackMe.*
 - **Repository 2: My University Projects** - *This repository contains projects from my B.Tech and M.Sc degrees, along with professional recommendations.*
-
+- **Repository 3: Self learning** - **
 ## My Goals
 
 - 📚 Learn the fundamentals of networking, Linux, and Windows.
