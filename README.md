@@ -1,4 +1,4 @@
-# Hello! I'm Jash Vaidya 
+# Hello! I'm Jash Vaidya
 
 Welcome to my cybersecurity portfolio. I am currently on a self-learning journey to build my skills from the ground up.
 
